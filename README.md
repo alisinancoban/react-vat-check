@@ -1,17 +1,13 @@
 # react-vat-check
 An app that check vat number in specified date
 
-* Install node modules
-   npm install
+* Install node modules => npm install
 
 ### Build
-* Build application
-  npm run build
+* Build application => npm run build
 
 
 ### Run
-* Run start
-  npm start
+* Run start => npm start
 
-* Run webpack dev server
-  npm run serve
+* Run webpack dev server => npm run serve
