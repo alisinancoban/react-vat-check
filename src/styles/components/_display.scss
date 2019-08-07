@@ -1,0 +1,43 @@
+.vatNumber {
+    cursor: pointer;
+    text-align: center;    
+    width: 90px;
+    display: inline-block;
+    border-radius: 20px;
+}
+
+.table-body > tr > td {
+    font-size: 0.8rem;
+    text-align: center;
+}
+
+.valid {
+    background-color: #34cceb;
+    border-radius: 20px;
+    font-size: 12px;
+}
+
+.invalid {
+    background-color: red;
+    border-radius: 20px;
+    font-size: 12px;
+}
+
+.valid span {
+    font-weight: bold;
+}
+
+.img {
+    width: 100%;
+    background-color:blue;
+}
+
+.font-l {
+    font-size: 61px;
+    color: white;
+}
+
+.font-s {
+    font-size: 14px;
+    color: white;
+}
